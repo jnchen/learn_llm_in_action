@@ -7,4 +7,4 @@
 ### 1.2 Python
 学习了Python的基本语法，VSCode远程连接开发机代码调试
 ### 1.3 Git
-学习Git命令的使用，创建了本项目，并将自我介绍创建了一个PR贡献到了{官方的学习项目](https://github.com/InternLM/Tutorial)中，还学习了markdown语法
+学习Git命令的使用，创建了本项目，并将自我介绍创建了一个PR贡献到了[官方的学习项目](https://github.com/InternLM/Tutorial)中，还学习了markdown语法
